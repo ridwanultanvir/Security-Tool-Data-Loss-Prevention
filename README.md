@@ -1,7 +1,8 @@
 # OpenDLP: Data Loss Prevention
 
 
-[![Sir Ken Robinson: Do schools kill creativity?](https://img.youtube.com/vi/iG9CE55wbtY/0.jpg)](https://www.youtube.com/watch?v=iG9CE55wbtY)
+[![OpenDLP Video Demonstration](https://img.youtube.com/vi/zHESGS-nRzs/0.jpg)](https://www.youtube.com/watch?v=zHESGS-nRzs)
+
 
 
 
